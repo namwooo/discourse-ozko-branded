@@ -37,3 +37,27 @@ body.has-sidebar-page {
   border-left: 1px solid var(--primary-low);
   box-shadow: 8px 8px 0px 0px rgba(var(--secondary-rgb), 0.65);
 }
+
+.display-search-banner {
+  .custom-search-banner-wrap {
+    h1 {
+      font-size: 2.75rem;
+      margin-bottom: 0;
+
+    }
+  }
+}
+
+.display-search-banner {
+  .search-input {
+    border: 2px solid var(--primary-low);
+    border-radius: var(--d-border-radius);
+    background-color: var(--secondary);
+  }
+}
+
+.display-search-banner {
+  #search-term {
+    padding: .75em;
+  }
+}
