@@ -9,5 +9,8 @@
   "maximum_discourse_version": null,
   "assets": {},
   "modifiers": {},
-  "color_schemes": {}
+  "color_schemes": {},
+  "components": [
+    "discourse-search-banner"
+  ]
 }
