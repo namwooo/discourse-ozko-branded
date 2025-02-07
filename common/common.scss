@@ -9,6 +9,8 @@ body.has-sidebar-page {
 }
 
 #main-outlet-wrapper {
+  padding: 0;
+
   #main-outlet {
     margin: 0 auto;
     max-width: var(--d-max-width);
